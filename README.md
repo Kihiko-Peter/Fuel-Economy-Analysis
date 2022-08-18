@@ -6,10 +6,15 @@ Each year, EPA provides fuel economy data to the Department of Energy (DOE), the
 
 ## Experimental Design
 Problem Definition
+
 Data Sourcing 
+
 Check the Data
+
 Perform Data Cleaning
+
 Perform Exploratory Data Analysis
+
 Conclusion
 
 ## Setup /Installation Requirement
